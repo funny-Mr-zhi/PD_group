@@ -1,6 +1,6 @@
 # Introduction
 
-  ** In this folder, we store: **
+  **In this folder, we store:**
   
   * original datasets/comments form Youtube 
   * Quantitative analysis of processing results by MDCORE and SENA
